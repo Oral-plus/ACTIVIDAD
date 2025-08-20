@@ -1,0 +1,47 @@
+p { font-family: 'Alfa Slab One', cursive;
+    font-size: 35px;
+    color: #ff477e;}
+
+    .card-input {
+        background: #ffc4d6;
+        border: 1px solid #ffc4d6;
+        border-radius: 5px;
+        padding: 10px;
+        width: 200px;
+        height: 12px;
+        margin-bottom: 10px;
+        font-family: "Comfortaa", sans-serif; /* Agregamos un margen inferior para separar los campos */
+    }
+    .card-input:focus {
+        background: #ffc4d6;
+        border-color: 1px solid #ffc4d6;
+        border-radius: 5px;
+        padding: 10px;
+        width: 200px;
+        height: 12px;
+        margin-bottom: 10px;
+        font-family: "Comfortaa", sans-serif; /* Agregamos un margen inferior para separar los campos */
+        outline: none; 
+    }
+    
+
+    label{
+        display: inline-block;
+        width: 120px;
+        font-family: "Comfortaa", sans-serif;
+        font-weight: 500;
+    font-size: 15px;
+      }
+    
+      .cuadro {	max-width: 1306px; 
+        display: block;
+        margin: auto;
+    margin-right: 8px;}
+
+        .blue-line {
+            border: 2px solid #1a7431; /* Establece el color de la línea como azul */
+            
+        }
+    /* Estilos para las pestañas */
+
+      
