@@ -1,0 +1,53 @@
+[
+   
+        {
+            "codigo": "1",
+            "ciudad": "CORREO ELECTRONICO"
+        },
+        {
+            "codigo": "10",
+            "ciudad": "SE ENVIA PAGO AL VENDEDOR PARA REPORTAR"
+        },
+        {
+            "codigo": "11",
+            "ciudad": "SE SOLICITA AL VENDEDOR CONTACTO PARA ENVIAR MENSAJE DE WSP"
+        },
+        {
+            "codigo": "12",
+            "ciudad": "LLAMADA TELEFONICA"
+        },
+        {
+            "codigo": "2",
+            "ciudad": "ESTADO DE CUENTA"
+        },
+        {
+            "codigo": "3",
+            "ciudad": "COBRO PRE JURIDICO"
+        },
+        {
+            "codigo": "4",
+            "ciudad": "WHATSAPP"
+        },
+        {
+            "codigo": "5",
+            "ciudad": "SOLICITUD ACTUALIZACION DE DATOS"
+        },
+        {
+            "codigo": "6",
+            "ciudad": "SE DEJA MENSAJE CON LA PERSONA QUE RESPONDE"
+        },
+        {
+            "codigo": "7",
+            "ciudad": "SIN GESTION"
+        },
+        {
+            "codigo": "8",
+            "ciudad": "VOLVER A LLAMAR"
+        },
+        {
+            "codigo": "9",
+            "ciudad": "SE INFORMA AL VENDEDOR PARA PROGRAMAR VISITA DE COBRANZA"
+        }
+ 
+
+]
